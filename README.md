@@ -9,9 +9,9 @@
 
 
 # Common software engineering principles:
-Test driven development: write test then function
-Domain driven development: talk to domain experts, use domain specific (business) terminology, and domain modeling 
-SOLID: for OODP, single, loosely coupled
-Clean code 
-Agile: iterative, incremental, adaptive planning, early delivery, continual improvement, flexible response to changes
-VS waterfall: has different phases (development, test) while agile does in each iteration
+1. Test driven development: write test then function
+2. Domain driven development: talk to domain experts, use domain specific (business) terminology, and domain modeling 
+3. SOLID: for OODP, single, loosely coupled
+4. Clean code 
+5. Agile: iterative, incremental, adaptive planning, early delivery, continual improvement, flexible response to changes
+6. VS waterfall: has different phases (development, test) while agile does in each iteration
